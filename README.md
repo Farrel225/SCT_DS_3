@@ -1,4 +1,4 @@
-SkillCraft Technology - Data Science Internship: Task 03
+# SkillCraft Technology - Data Science Internship: Task 03
 
 This repository contains the work for the third task of the SkillCraft Technology Data Science Internship.
 
