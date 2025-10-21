@@ -19,8 +19,11 @@ This process repeats until a final leaf node is reached, which provides the mode
 2. Confusion Matrix Heatmap This 2x2 grid provides a clear and concise breakdown of the model's prediction accuracy on the test data.
 
 Top-Left (True Negative): Correctly predicted 'No'.
+
 Bottom-Right (True Positive): Correctly predicted 'Yes'.
+
 Top-Right (False Positive): Incorrectly predicted 'Yes' (it was 'No').
+
 Bottom-Left (False Negative): Incorrectly predicted 'No' (it was 'Yes').
 
 This visualization is essential for understanding not just the model's accuracy, but the types of errors it makes.
