@@ -16,8 +16,7 @@ Each branch represents an answer to that question, splitting the data into group
 This process repeats until a final leaf node is reached, which provides the model's final prediction ('Yes' or 'No') for that specific customer profile.
 <img width="963" height="581" alt="image" src="https://github.com/user-attachments/assets/dd6ed4ae-7ed1-4743-b866-adc4917b3211" />
 
-
-2. 2. Confusion Matrix Heatmap This 2x2 grid provides a clear and concise breakdown of the model's prediction accuracy on the test data.
+2. Confusion Matrix Heatmap This 2x2 grid provides a clear and concise breakdown of the model's prediction accuracy on the test data.
 
 Top-Left (True Negative): Correctly predicted 'No'.
 Bottom-Right (True Positive): Correctly predicted 'Yes'.
